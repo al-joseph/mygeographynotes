@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mygeographynotes",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction",
@@ -7,10 +14,45 @@
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mygeographynotes",
+    "objectID": "coast.html#why-are-coastal-landscapes-different-and-what-processes-cause-these-differences",
+    "href": "coast.html#why-are-coastal-landscapes-different-and-what-processes-cause-these-differences",
+    "title": "2  Coastal Landscapes and Change",
+    "section": "2.1 Why are coastal landscapes different and what processes cause these differences?",
+    "text": "2.1 Why are coastal landscapes different and what processes cause these differences?\n\nThis is the area between the land and the sea, stretching out into the sea and onto the shore.\nThe zone is subdivided into the backshore, foreshore, nearshore and offshore\nThe backshore is only affected by waves during high tides (often called spring tides) and during major storms. It is above sea level. This is where mass movement and weathering occurs\nThe nearshore refers to shallow water close to land. It is very there is most human activity, such as fishing and and leisure\nWaves processes normally occur between the high and low tide mark. Erosion and deposition occur at the foreshore and nearshore.\n\nThe zone is in dynamic equilibrium due to the wide range of natural processes that interact within it These process can be short term (individual waves, tides etc) or long term (climate change)\n\n2.1.1 Classifying coasts\nCoasts can be classified using longer term criteria such as geology, sea level rise as well as shorter term processes such as inputs from rivers, waves and tides - erosion and deposition which cause short term changes."
+  },
+  {
+    "objectID": "coast.html#how-do-characteristic-coastal-landforms-contribute-to-coastal-landscapes",
+    "href": "coast.html#how-do-characteristic-coastal-landforms-contribute-to-coastal-landscapes",
+    "title": "2  Coastal Landscapes and Change",
+    "section": "2.2 How do characteristic coastal landforms contribute to coastal landscapes?",
+    "text": "2.2 How do characteristic coastal landforms contribute to coastal landscapes?"
+  },
+  {
+    "objectID": "coast.html#how-do-coastal-erosion-and-sea-level-change-alter-the-physical-characteristics-of-coastlines-and-increase-risks",
+    "href": "coast.html#how-do-coastal-erosion-and-sea-level-change-alter-the-physical-characteristics-of-coastlines-and-increase-risks",
+    "title": "2  Coastal Landscapes and Change",
+    "section": "2.3 How do coastal erosion and sea level change alter the physical characteristics of coastlines and increase risks?",
+    "text": "2.3 How do coastal erosion and sea level change alter the physical characteristics of coastlines and increase risks?"
+  },
+  {
+    "objectID": "coast.html#how-can-coastlines-be-managed-to-meet-the-needs-of-all-players",
+    "href": "coast.html#how-can-coastlines-be-managed-to-meet-the-needs-of-all-players",
+    "title": "2  Coastal Landscapes and Change",
+    "section": "2.4 How can coastlines be managed to meet the needs of all players?",
+    "text": "2.4 How can coastlines be managed to meet the needs of all players?"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
