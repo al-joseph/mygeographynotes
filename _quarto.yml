@@ -5,7 +5,7 @@ project:
 
 book:
   title: "mygeographynotes"
-  author: "Jane Doe"
+  author: "Allen Joseph"
   date: "2/16/2024"
   chapters:
     - index.qmd
