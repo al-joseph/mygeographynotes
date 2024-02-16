@@ -1,0 +1,1 @@
+https://al-joseph.github.io/mygeographynotes/
