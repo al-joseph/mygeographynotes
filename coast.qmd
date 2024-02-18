@@ -2,6 +2,8 @@
 
 ## Why are coastal landscapes different and what processes cause these differences?
 
+### The Littoral Zone
+
 -   This is the area between the land and the sea, stretching out into the sea and onto the shore.
 
 -   The zone is subdivided into the backshore, foreshore, nearshore and offshore
@@ -14,12 +16,991 @@
 
 The zone is in dynamic equilibrium due to the wide range of natural processes that interact within it These process can be short term (individual waves, tides etc) or long term (climate change)
 
++---------------------------------------------------------------------------------------------+----------------+----------------------------------------------------------+
+| Inputs                                                                                      | Process        | Output                                                   |
++---------------------------------------------------------------------------------------------+----------------+----------------------------------------------------------+
+| -   Sediment from the sea and currents from rivers flowing off the land                     | -   Erosion    | -   Different  types of coasts - sandy beaches, wetlands |
+|                                                                                             |                |                                                          |
+| -   Human activity (e.g. dredging of offshore areas to get sand and gravel for construction | -   Deposition | -   Depositional landforms - spits, tombolo              |
+|                                                                                             |                |                                                          |
+|                                                                                             | -   Weathering | -   Erosional landforms - arch, stack, stump             |
+|                                                                                             |                |                                                          |
+|                                                                                             | -   Transport  |                                                          |
++---------------------------------------------------------------------------------------------+----------------+----------------------------------------------------------+
+
 ### Classifying coasts
 
 Coasts can be classified using longer term criteria such as geology, sea level rise as well as shorter term processes such as inputs from rivers, waves and tides - erosion and deposition which cause short term changes.
 
+### High and Low energy coasts
+
++------------------+-------------------------------------------------------------------+--------------------------------------------------------------+
+| Col1             | Low Energy Coasts                                                 | High energy coasts                                           |
++==================+===================================================================+==============================================================+
+| Waves            | -   Constructive waves                                            | -   Destructive waves                                        |
+|                  |                                                                   |                                                              |
+|                  | -   Calmer conditions                                             | -   Storm conditions                                         |
+|                  |                                                                   |                                                              |
+|                  | -   Short fetch                                                   | -   Long fetch                                               |
++------------------+-------------------------------------------------------------------+--------------------------------------------------------------+
+| Processes        | -   Deposition and transport                                      | -   Erosion and transport                                    |
+|                  |                                                                   |                                                              |
+|                  | -   Sediments from rivers, longshore drift and nearshore currents | -   Sediments from eroded land, mass movement and weathering |
++------------------+-------------------------------------------------------------------+--------------------------------------------------------------+
+| Landforms        | -   Beach, spits, salt marshes, sand dunes, bars                  | -   Cliffs, wave cut platforms, arches, sea caves            |
++------------------+-------------------------------------------------------------------+--------------------------------------------------------------+
+| General location | -   Coastal plain landscape                                       | -   Highland and lowland coasts                              |
+|                  |                                                                   |                                                              |
+|                  | -   Lowland coast                                                 | -   Rocky landscape                                          |
++------------------+-------------------------------------------------------------------+--------------------------------------------------------------+
+
+There are two main types of coasts
+
+-   Rocky coastlines - with cliffs varying in height from a  few meters to hundreds of meters
+
+    -   Cliffed coast
+
+        -   The transition from sea to land is abrupt
+
+        -   At low tide the foreshore zone is exposed as a wave cut platform
+
+-   Coastal Plains - land slopes towards the sea across an area of deposited sediment
+
+    -   Estuarine coastline
+
+        -   Estuarine are found at the mouths of rivers
+
+        -   Extensive mudflats are exposed at low tide.
+
+        -   Closer to the backshore the mudflats are vegetated
+
+        -   Deposition of sediment from the land brought down to the coast by river systems can cause coastal accretion where the coastline moves seawards (e.g. through river deltas)
+
+    -   Sandy coastline
+
+        -   Sand dunes fringe many coastal plains
+
+        -   Dune stabilisation plays critical role in stabilising the coast and preventing erosion
+
+        -   Some are  a result of a fall in sea level exposing the seabed of what was once a shallow continental shelf sea
+
+### Concordant and discordant coastlines
+
+The shape of a coastline is largely determined by geology and wave action.
+
+Concordant Coastline (Pacific coasts)
+
+-   Rock types lie in the same direction as the coastline - e.g. in South Dorset made from purbeck limestone, mudstone, greensand etc.
+
+-   Dalmatian Coastlines
+
+    -   The geology of Dalmatia is limestone, 
+
+    -   It has been folded by tectonic activity into a series of anticlines and synclines that trend parallel to the moden coastline
+
+    -   These basins have been drowned by rising sea levels of create a concordant coastline of long, narrow islands arranged in lines offshore
+
+-   Haff Coastline
+
+    -   Long sediment ridges topped by sand dunes run parallel to the coast just offshore, creating lagoons (haffs) between the ridge and the shore
+
+Discordant Coastline (Atlantic Coasts)
+
+-   Rock types is perpendicular to the coast
+
+-   Alternating bands of hard and soft rock create headlands where there is more resistant rock (or an upfold) and bays (downfalls) where there is less resistant rock
+
+-   Bays have semicircular shapes; as the waves enter the bay, the waves dissipate, lose energy and deposit a bay head beach.
+
+-   Headlands protrude out into the sea
+
+    -   The shape of a coastline causes wave to refract as they approach the headlands
+
+    -   As waves approach the shallower water offshore a headland, they slow down and wave height increases
+
+    -   and this concentrates the waves energy on a headland. 
+
+-   E.g. on the East Dorset Coastline, a bay has formed called Swanage Bay as the mudstone has eroded quicker than the purbeck limestone and and chalk, leading to headlands e.g. studland head
+
+### Coastal Geomorphology
+
+Geological structures can influence on coastal morphology and erosion rates
+
+\
+Cliff profiles are influenced by different aspects of geology, namely\
+
+-   The resistance erosion of the rock
+
+    -   There are two main cliff profile types: maine erosion dominated or subaerial process dominated
+
+        -   At maine erosion dominated cliffs, wave action dominates, cliffs tend to be steep. There is little in the way of rock debris at the base of the cliff as its quickly broken up by erosion and carried away by waves
+
+        -   At subaerial dominated cliffs, mass movement and surface runoff erosion dominates. They slowly move rock and sediment downslope by the limited marine wave erosion means it's not removed.
+
+-   The dip of rock strata in relation to the coastline
+
+-   The dip simply refers to the angle of the rock strata in relation to the horizontal
+
+-   The angle can be tilted by tectonic activity
+
+-   There are four main types: 
+
+    -   Horizontal - vertical profile with notches reflect strata that are more easily eroded
+
+    -   Seaward dip, high angle - one rock layer faces the sea
+
+    -   Seaward dip low angle - profile may exceed 90 degrees producing areas of overhanging rock, very vulnerable to rock falls
+
+    -   Landward dip - Very stable cliff with reduced rock falls
+
+Faults represent weaknesses within rock layers. They are major fractures due to tectonic activity. Either side of a fault tines, rocks are fractures and broken and these weakness can be exploited by marine erosion
+
+Joints occur at the division of rock strata up into blocks with a regular shape
+
+Fissures are smaller cracks in rocks, often a few cm or mm long but the represent weakness that erosion can exploit
+
+Caves and wave cut notches occur at the location of faults, and or strata which have a high density of joints and fissures.
+
+-   Regular patterns of joining in rocks are often a result of sedimentary rocks being folded by tectonic forces.
+
+-   Folding occurs due to crustal compression. When horizontal stars are squeezed they can be folded into a series of anticlines and synclines. 
+
+### Differential Erosion rates
+
+Bedrock Lithology
+
+-   Igneous
+
+    -   E.g. Granite; basalt
+
+    -   Very slow erosion rate
+
+    -   Igneous rocks are crystalline - i.e. the interlocking crystals make for strong hard erosion- resistant rock
+
+    -   There are few joints (e.g. granite) so there are limited weaknesses than erosion can exploit
+
+-   Metamorphic
+
+    -   E..g marble
+
+    -   Slow erosion rate
+
+    -   Crystalline metamorphic rock are resistant to erosion
+
+    -   However, sometimes the crystals are oriented in one direction, producing weaknesses - called foliation
+
+    -   Metamorphic rocks are often folded and heavily fractured which are weaknesses the erosion can exploit
+
+-   Sedimentary
+
+    -   Sandstone; limestone
+
+    -   Moderate to fast
+
+    -   Tend to be clastic - i.e. made of cemented sediment particles
+
+    -   The age of sedimentary rock is important as geologically young rocks tend to be weaker
+
+    -   Rocks with many fractures, such as shale are often most vulnerable to erosion
+
+The weakest coastal material is unconsolidated sediment. E..g sand, gravel clay, that have not been compacted or cemented to become sedimentary rock. It is loose and easily eroded
+
+Permeability
+
+-   Permeable rocks allow water to flow through them - e.g sandstone, limestone
+
+-   Impermeable rocks do not allow water to flow through them including most igneous and metamorphic rocks
+
+-   This is important as water can remove the cement that holds the rock together
+
+-   It can also create high pore water pressure within cliffs, affecting their stability (leads to rotational slumping)
+
+-   Some type of rock contain soluble minerals, and so are vulnerable to chemical weathering such as carbonation or hydrolysis
+
+The role of vegetation at the coast
+
+-   Ecosystems at the coast include coral reefs, mangrove forests, salt marshes and sand dunes
+
+-   Salt marshes and sand dunes are the most common in lowland UK areas
+
+-   Most plants that grow in coastal environments are:
+
+-   Halophytes - tolerate salt water
+
+-   Xerophytes - Tolerate very dry conditions
+
+-   Salt Marshes successional development in eustraline areas
+
+    -   Common in low energy environments of estuaries and sheltered bays
+
+    -   The river brings in fine muds and silts, depositing them at the sides of the estuaries whilst the tidal conditions bring seawater in and out
+
+    -   The tiny clay particles stick to each other, in a process called flocculation, and once deposited they are colonised by algae
+
+    -   Over time, the plants trap more sediment which builds up the salt mash up to a higher level so that other plants can then colonise.
+
+-   Sand dunes successional development on sandy coastlines
+
+    -   Form when there is plentiful supply of sand, a large area of the sand to dry out, strong onshore winds to blow the sand towards the land and an obstacle such as vegetation to trap the sand. 
+
+    -   Embryo dunes form first and once established collect more sand and become larger
+
+    -   Pioneer plants (eg sea rocket) colonse the stable dunes and help hold the sand together and trap more sand
+
+    -   Yellow dunes are highest and are colonised by marram grass.
+
+    -   Slacks form (dips in the succession) due to periods of wind erosions
+
+    -   At high tide, seawater may reach the dips in the sand dunes, called slacks, allowing other plants such as marsh orchids to grow here.
+
+    -   Mature dunes (also known as grey dunes) contain high humus content.
+
+    -   The oldest dunes are closest to the land - the climax vegetation is either pine forests or oak forests
+
+How does vegetation stabilise sediment?
+
+-   Roots of the sediment help bind particles together, making them harder to erode
+
+-   Plants act as  protective layer so the surface of the sediment is not directly exposed to move water and thus erosion
+
+-   Reduce wind speed at the surface due to friction  with the vegetation, reducing wind erosion
+
 ## How do characteristic coastal landforms contribute to coastal landscapes?
+
+### Wave size depends on:
+
+-   Strength of wind
+
+-   The fetch (distance wind has blown over)
+
+-   Water depth
+
+-   Duration the wind blows for
+
+As waves approach a shoreline, the internal orbital motion of water touches the seabed, causing friction between the wave and the seabed, slowing down the wave. ITs wavelength decreases and wave height increases. It breaks in shallow water as the crest of the wave begins to move forward much faster than the trough as the trough experiences more friction with the sediment and the rock of the shore. The crest outruns the trough and the wave topples forward
+
++---------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Constructive                                                  | Destructive                                                                                                        |
++---------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| -   Low wave height                                           | -   High wave height (over 1m)                                                                                     |
+|                                                               |                                                                                                                    |
+| -   Long wavelength - over 100m (so low frequency)            | -   Shorter) wavelength (20m)                                                                                      |
+|                                                               |                                                                                                                    |
+| -   Gentle flat waves with a strong swash but weak backwash   | -   Waves have strong backwash and erodes beach materia and carries it offshore, creating an offshore ridge or bar |
+|                                                               |                                                                                                                    |
+| -   Swash pushes sediment up the beach, leading to deposition |                                                                                                                    |
+|                                                               |                                                                                                                    |
+| -   Relatively gentle beach profile                           |                                                                                                                    |
++---------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+
+In summer constructive waves dominate; in winter, destructive waves dominate
+
+A beach profile may change as destructive waves give way to constructive waves after a storm parsses
+
+Over long periods, beach profiles may change
+
+-   Sediment supply from a river is reduced perhaps due to the construction of dams on rivers that trap sediment upstream
+
+-   Coastal management in one place may alter processes further along the coast
+
+-   If global warming made the UK climate stormier, than destructive waves would become more common
+
+Erosional Processes
+
+-   Corrasion - or abrasion occurs when the sediment picked up by waves is thrown against the cliff face. This chisels away the surface and gradually wears it down as it abrades (or scratches) the rock. 
+
+    -   Loose sediment has to be available (for example shingle, or pebbles)
+
+    -   Softer sedimentary rocks are more vulnerable than hard igneous rocks
+
+-   Attrition - When boulders, rock particles, pebbles are continually moved around the waves, they collide with each other. The numerous collisions between particles slowly chip fragments of the sediment. The sediment becomes smoother, smaller and more rounded over time
+
+    -   Process is faster with softer rocks
+
+-   Solution - or corrosion occurs when carbonate rocks are vulnerable to solution by rainwater, spray from the sea or seawater 
+
+    -   Mainly affects limestone, which is vulnerable to solution by weak acids
+
+-   Hydraulic Action - Air trapped in cracks and fissures is compressed by the force of destructive waves crashing against the cliff face. As the wave retreats, pressure forces the crack open. This process dislodges blocks of rock from the cliff face
+
+    -   Highly jointed/fissured sedimentary rocks are very vulnerable
+
+### Erosional landforms
+
+Wave cut notches
+
+-   At high tide, destructive waves reach the base of the cliff
+
+-   Through corrosion and hydraulic action, wear away the fock
+
+-   A curved, wave cut notch forms
+
+Wave cut platforms
+
+-   As the cliff is eroded at the base, the rock above is left unsupported leaving an overhang. This collapses under the influence of gravity.
+
+-   As the cliff retreats, a wave cut platform is left behind between the high and low tide levels.
+
+Cliffs
+
+-   Cliffs are vertical slopes caused by waves undercutting the land at high tide.
+
+-   As the cliffs are undercut, gravity is able to cause mass movement in the unsupported rock
+
+Cave- Arch- stack-stump sequence
+
+-   At a headland waves will be refracted so that the full energy of erosion is concentrated on weakness on the sides
+
+-   Hydraulic action and corrasion will form a cave. E.g. Tilly Whim Cave
+
+-   When these meet from opposite sides, a tunnel is formed called a rock arch - e.g Durdle Door
+
+-   Eventually the top becomes unstable, and collapses, leaving a pillar of rock called a stack. E.g. Old Harry Rock
+
+-   WAves can continue to erode the base of a stack (especially during storm conditions) cutting notches in several sides.
+
+-   The stack becomes unstable and collapses, leaving just the base called a stump e.g Old Harry's Wife
+
+-   Waves, tides and currents can transport sediment. For example rip currents, transport sediment from the foreshore to nearshore areas
+
+-   Tide also determines what height on the foreshore  or backfshore these processes may be operating.
+
+-   The main transport process is longshore drift
+
+### Longshore Drift
+
+-   Prevailing wind may be an oblique angle.
+
+-   Thus the waves approach the coast at an oblique angle (the strongest drift occurs at an angle of 30 degrees)
+
+-   The swash moves beach sediment up the beach at the same angle as the wave approach
+
+-   Under the influence of gravity, the backwash brings the sediment back down at a right angle to the shore. 
+
+-   Over time, the sediment zigzags along the beach 
+
+### Processes of sediment transport
+
+\
+
+-   Traction - Pebbles, boulders etc rolls along, pushed by waves
+
+-   Saltation - sand sized particles bounches along, due to wind or force of water
+
+-   Sediment (such as  silt and clay) is carried in the water column looking murky
+
+-   Solution - dissolved material is carried in the water as a solution
+
+### Depositional Landforms
+
+Coasts can be divided into two broad categories
+
+-   Swash aligned coasts - Wave crescents approach parallel to the coast, so there is limited longshore movement of sediment
+
+-   Drift aligned coasts - Waves crests break at an angle to the coast, so there is consistent longshore drift and the generation of elongated depositional features
+
+Longshore drift as well as sediment from a river are key sources of sediment for depositional landforms on coasts.
+
+Deposition occurs due to:
+
+-   Gravity Settling - The energy of the transporting water becomes too low to move sediment
+
+-   Flocculation - Particles (e.g. of clay) clump together due to electric or chemical attraction and becomes large enough to sink
+
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+| Landform                    | Processes                                                                                                                                                                      | Example                      |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+| Bayhead Beach               | -   Swash aligned feature where waves break and move sediment into a bay where a beach forms.                                                                                  | Lulworth Cove, Dorset        |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   Due to wave refraction, erosion is concentrated on the headland and the bay is an area of deposition                                                                       |                              |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+| Spits (Recurved and double) | -   Longshore drift carries sediment along a beach                                                                                                                             | Spurn head                   |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   As the coast changes direction, due to an estuary or bay, the longshore drift current loses energy leading to deposition                                                   |                              |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   Eventually salt tolerant plants grow in this area to form mudflats and a salt marsh                                                                                        |                              |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   A curved spit end is curved landward into a bay. This occurs when there is a change in wind direction as well as tides and river currents moving in and out of the estuary |                              |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   A double split occurs when two spits have not joined to form a bar or cuspate foreland, because several rivers discharge their flows into the sea.                         |                              |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+| Offshore Bars               | -   Long ride of sand and pebbles found a short distance out to sea                                                                                                            |                              |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   It forms in shallow water, where destructive waves break before reaching the beach. This results in deposition of sand                                                     |                              |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+| Barrier beaches and bars    | -   A spit can grow so long that it extends across a bay. Behind the bar, there is a shallower water lagoon behind.                                                            |                              |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   Nearshore bars are similar to barrier beaches but smaller.                                                                                                                 |                              |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+| Tombolo                     | -   A sand or shingle bar that attaches the coastline to an offshore island.                                                                                                   | St Ninians tombolo, Shetland |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   Wave refraction around  an offshore island creates an area of calm water and deposition between the coast and the island can occur                                         |                              |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+| Cuspate Foreland            | -   Growth of two spits from opposing longshore drift directions cause a triangular shaped feature which extends out from a shoreline                                          | Dungeness, Kent              |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   Coastal deposition and alluvial deposits from small streams flowing into the bay because the area to fill up with sediment                                                 |                              |
+|                             |                                                                                                                                                                                |                              |
+|                             | -   Mudflats and saltmarshes form and the deposition will eventually be enough to form a new area of lowland                                                                   |                              |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+
+Plant succession is very important as they bind the loose sediment together and encourage further deposition. Sand dunes stabilize the sediment landward of the beach. Depositional landforms are thus vulnerable when their generation is damaged. This happens due to overgrazing or trampling from tourism and leisure activities
+
+### The sediment cell model
+
+-   Long stretches of coastline operate as sediment cells
+
+-   Each cell can be regarded as a closed system
+
+-   There are 11 of these around the English and Welsh coastline
+
+-   In each cell:
+
+    -   Sources - places where the sediment is generated e.g. at cliffs. Some sources can be offshore bars. River systems can also act as important source of sediment for the coast
+
+    -   Transfer zones - places where the sediment is moving along the shore through longshore drift and offshore currents
+
+    -   Sinks - Locations where deposition is occuring. Landforms such as spits and offshore bars are created.
+
+-   The system acts in a state of dynamic equilibrium with sediment inputs balancing the outputs to sinks
+
+-   Negative feedback mechanism maintain the balance by pushing the system back to equilibrium (e.g. after  as form where erosion may dominate) 
+
+    -   Major erosion of sand dunes could lead to excessive deposition offshore, creating an offshore bar that reduces wave energy, allowing the dunes time to recover
+
+-   Positive feedback mechanisms can lead to disequilibrium in the coastal system
+
+    -   Increasing storiminess could lead to long term erosion of sand dunes with no chance to recover between events
+
+### Weathering Processes
+
+-   Weathering is the break down of rocks in situ. It does not involved movement (unlike erosion)
+
+-   Weathering processes can be physical, chemical or biological.
+
+-   They can operate between the low tide level and the cliffs or land of the backshore.
+
+-   Climate plays an important role as it dictates temperature and moisture levels
+
++---------------------------------------------------------------------------------------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+|                                                                                       | Name                                                                      | Processes                                                                                                                 |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Mechanical/Physical                                                                   | Freeze-Thaw weathering                                                    | Occurs on coasts were the temperatures changes daily above and below zero                                                 |
+|                                                                                       |                                                                           |                                                                                                                           |
+| Break down of rocks due the exertion of a physical force                              |                                                                           | Water seeps into joints and cracks in the rock and when it freezes expands, exerting pressure and forcing the rock apart  |
+|                                                                                       |                                                                           |                                                                                                                           |
+|                                                                                       |                                                                           | Water expands by 9% in volume when freezing                                                                               |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Chemical                                                                              | Oxidation                                                                 | Oxygen combines with iron based minerals in a rock, causing a chemical breakdown of the minerals                          |
+|                                                                                       |                                                                           |                                                                                                                           |
+| Weathering involves a chemical reaction and the generation of a new chemical compound |                                                                           |                                                                                                                           |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+|                                                                                       | Carbonation                                                               | Dissolving of carbonate rocks due to acidic rain producing calcium bicarbonate in solution                                |
+|                                                                                       |                                                                           |                                                                                                                           |
+|                                                                                       |                                                                           | Limestone is specially vulnerable                                                                                         |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Biological                                                                            | Boring molluscs                                                           | Molluscs live on coastal rocks, scraping away at the rock surface to get food or boring a hole in the rock to make a home |
+|                                                                                       |                                                                           |                                                                                                                           |
+| Plants bacteria or animals accelerate chemical or physical weathering                 |                                                                           | They can also secrete chemicals that dissolve rocks                                                                       |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Plant roots                                                                           | Trees and plant roots can grow in cracks and fissures forcing rocks apart |                                                                                                                           |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+
+### Mass Movement
+
+Mass movement is the movement downslope of rocks, sand, clay or soil.
+
+-   Block Falls
+
+    -   Occur on steep slopes as a cliff face is weathered which loosens blocks and when wave erosion creates a wave cut notch, the overhang is no longer supported.
+
+        -   Rock fragments fall to the base of the slope and form talus scree slopes
+
+-   Rotational Slumping
+
+    -   Occurs in unconsolidated sands and clays where a section of the cliff remains intact as it moves down a cliff along a curved cliff plane
+
+        -   Permeable strata sits on top of impermeable strata allowing rainwater to percolate saturating the permeable sands, loading the cliff material
+
+        -   Water is forced to move along the sand as the clay is impermeable creating a high pore water pressure in the sand and creates internal pressure within the cliff
+
+        -   The curved failure surface develop in the sand and teh whole life rotates about a pivot point
+
+        -   This leaves a crescent shaped rotational scar about it on the cliff
+
+        -   A sequence of slumps will creates benches or a terraced cliff profile
+
+-   Landslides
+
+    -   Weak rock s such as clay or unconsolidated sands can become saturated, lose their cohesion and flow downslope.
+
+        -   Heavy rainfall and high tides can contribute to saturation
 
 ## How do coastal erosion and sea level change alter the physical characteristics of coastlines and increase risks?
 
+### Eustatic and isostatic change
+
+-   Isostatic change -rise or fall in land level
+
+-   Eustatic - rise or fall in sea level
+
++------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Eustatic fall in sea level                                                                                                                                 | Eustatic rise in sea level                                                                                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| -   During an ice age most of the world's water is stored in ice in ice sheets, glaciers etc.                                                              | -   At the end of the ice , melting ice sheets return water to the sea causing the sea level to rise globally                                                            |
+|                                                                                                                                                            |                                                                                                                                                                          |
+| -   Consequently sea levels fall.                                                                                                                          |                                                                                                                                                                          |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Isostatic fall in sea level                                                                                                                                | Isostatic rise in sea level                                                                                                                                              |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| -   As the ice is km thick,  it is very heavy and is able to push the land downwards, because the upper mantle underneath the crust is soft, viscous fluid | -   Land can sink at the coast due to the deposition of sediment accretion, especially in large river deltas where the weight of sediment leads to very slow crustal sag |
+|                                                                                                                                                            |                                                                                                                                                                          |
+| -   Land near the ice sheets become depressed                                                                                                              |                                                                                                                                                                          |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+In the UK, Scotland was pushed down by the weight of ice, whilst southern England which was ice free, rose slightly. When ice sheets melt at the end of an ice age, the landstarts to rebound back upwards. The US is still showing isostatic readjustment with Scotland rising and Southern and Eastern England sinking.
+
+As tectonic plates move and collide, some continental shelves and areas of land are pushed upwards. Other areas may sink. Volcanic islands may form new coastlines such as island arcs, or hotspot locations.
+
+Marine regression - seabed is exposed as the sea level drops, producing an emergent coast
+
+Marine transgression - areas of land flood, producing a submergent coast
+
+Emergent Coastline - result of isostatic rebound.
+
+-   Raised Beaches
+
+    -   Former beach now above the high tideline. 
+
+    -   They have several wave cut platforms as sea levels change frequently
+
+-   Fossil Cliffs
+
+    -   Near vertical slope formed by marine processes but now some distance inland
+
+Submergent Coastline -  caused by sea level rise or isostatic sinking
+
+-   Rias
+
+    -   Flooded river valley.
+
+    -   During an ice age, some land areas were not covered with ice but had frozen grounds so rivers carved valleys with steeper sides than normal
+
+    -   As the ice melted, sea level rose and drowned the mouth of these valleys
+
+-   Fjords
+
+    -   Flooded glaciated valley
+
+    -   Glaciers eroded U shaped valleys down to the coast of the time, and after the ice melted, sea level rose again and flooded into the valley over a shallow threshold, creating a deep water inlet with steep sides
+
+-   Dalmatian
+
+    -   Tectonic activity leads to folding of the ground, leaving anticlines and synclines. The synclines are flooded with long islands between them.
+
+Contemporary Sea Level rise
+
+-   Sea levels are rising due to climate change.
+
+-   The current rate of rise is about 2 mm a year
+
+-   Low lying islands such as the Maldives may disappear, along with coastal ecosystems
+
+Sea level is difficult to predict for the following reasons
+
+-   Thermal expansion of the oceans as they warm due to global warming ; the contribution depends on how global temperatures climb
+
+-   The melting of mountain glaciers in the Alps, Himalayas etc will increase ocean water volume
+
+-   There is uncertainty about when and how much ice sheets such as Greenland and Antarctic will melt.
+
+<!-- -->
+
+-   In some areas, sea level can change locally due to tectonic activity.
+
+-   Successive major earthquakes have repeatedly lifted the shoreline by several meters in Wellington, New Zealand 
+
+-   During the 2004 Indian OCean tsunami, the coastline on Sumatra dropped by 1m!
+
+Coastal Recession is affected by physical and human factors
+
+-   Coastal retreat may be influenced by natural factors such as the lithology, margarine process and subaerial processes.
+
+-   Offshore dredging may increase coastal retreat. Dredging refers to the removal of sand for construction purposes to deepen entrances to ports or to supply sediments for beach nourishment
+
+-   Deeper waves allow waves to maintain their circular motion and energy closer inshore and have a more destructive impact on the coast. 
+
+    -   Dredging can remove species and communities, increasing suspended sediment levels which can damage coral reefs
+
+-   Starvation of sediment elsewhere may result due to the construction of gyrones that interrupt longshore drift and trap sediment, but leads to greater erosion elsewhere
+
+::: {.callout-note collapse="false"}
+## Case study: The Nile Delta Case Study
+
+-   Multiple human activities can be found concentrated across the 240km  coast of the Nile Delta
+
+-   There are holiday beach resorts, coastal defences, tourism, marine recreational, fisheries, land reclamation, agriculture and port infrastructure
+
+-   The coastline is experiencing retreat, with significant erosion on half of it.
+
+-   Coastal flooding is becoming more frequent due to climate change.
+
+-   As sea levels rise and offshore bars are eroded, 3.3% of the delta land area will be lost
+
+-   If sea levels rise by 1 m, 2 million hectares of fertile land will be lost and at least 6 million people will be displaced
+
+-   The construction of the Aswan High Dam, decreased the sediment volume as the sediment was trapped by the reservoir and dam. Consequently, erosion rates increased from 20 m per year to 200m per year as the delta was starved of sediment
+:::
+
+Rates of recession are not constant and can be influenced by long and short term factors
+
+-   Highest levels of retreat occurs with 
+
+    -   Weakly consolidated rocks
+
+    -   Long wave fetch and large destructive waves.
+
+        -   Coasts with long fetches are more likely to retreat faster than those with shorter fetches
+
+        -   At the holderness coastline, the dominant winds have a large fetch as they travel across the North Sea. Though rare, when they do occur erosion rates amy reach over 8m a year
+
+        -   In the Southwest, the winds come from the Atlantic
+
+    -   Cliffs with structural weakness such as faults
+
+    -   Weather Systems
+
+        -   In winter, the temperate difference between the equator and the pole is at its greatest, which means the depressions are at their strongest, with lower air pressure and faster wind speeds, which creates largest destructive waves and the fastest recession rates
+
+    -   Tides
+
+        -   Extreme high tides known as spring tides occur when the Sun and the moon aligned so that their gravitational pull is at its strongest
+
+        -   Tides are important because they determine  where the waves will reach the shore. At high tides, waves are more likely to reach the backshore and erode the land faster.
+
+    -   Mass movement and constant weathering processes
+
+        -   Weathering weakens the rock found at the coast and allows erosion rates to increase.
+
+        -   Mass movement moves sediment away at the base of coastal slopes where wave action and longshore drift can carry material away. This then exposes the base of coastal slopes resulting in cliffs retreating further.
+
+-   There are variations are retreat level in the Holderness Coast, with an average annual erosion of 1.25m a year - but with a wide range from 0 m to 6m. The geology is consistent (boulder clay) so the variations are due to:
+
+    -   Coastal defences in locations have decreased erosion
+
+    -   Starvation of sediment further south due to construction of groynes has interrupted longshore drift but led to to greater erosion just south of the defense
+
+    -   Mass movement susceptibility in some locations 
+
+    -   Winter storms cause more erosion, especially when they coincide with a high spring tide
+
+    -   Storms are more rare in summer months so erosion rates are lower
+
+### Coastal flood risk
+
+Local factors
+
+-   For most people at coastlines, the threat of flooding outweighs the treaty of erosion. Many people who live on low lying coasts are only a few meters above sea level
+
+-   Ecosystems such as mangrove forests are important for reducing flood risk so their removal can increase risk significantly.
+
+    -   Mangroves reduce the height of waves by 40%, reducing wave erosion and distance reached inland
+
+    -   Stabilize sediment, trapping and adding to them so keeping the level of coastal land higher
+
+    -   In Indonesia, coastline treated due to flooding when mangroves were removed
+
+-   Sea level rise of 40 cm in the Bay of Bengal would submerge 11% of Bangladesh coastland, resulting in 7-10 million environmental refugees.
+
+::: {.callout-note collapse="false"}
+## Case study: Maldives
+
+-   Population: 340000
+
+-   Highest point in the country is only 2.3m above sea level
+
+-   A sea level rise of 50cm by 2100 could mean the Maldives lose 77% of its land area become flooded
+
+-   Male, the capital, now has a 3m high sea wall
+:::
+
+**Storm surges**
+
+-   Most short term coastal flooding is a result of storm surges
+
+-   Storm surge is a short term change in sea level caused by low air pressure. This is because as air pressure drops, the weight of the air pressing down on the sea surface drops, so the sea surface rises.
+
+-   This can be:
+
+    -   A depression (low pressure water system in the mid latitudes)
+
+    -   A tropical cyclone (low air pressure and strong winds)
+
+-   A fall in air pressure of 1mb leads to a 1cm rise in local sea level rise.
+
+-   Severe depression or cyclone can make coastal flooding worse as
+
+    -   Strong winds push waves onshore so wave height increases
+
+    -   High or spring tides occur at the same time of the storm, making the sea level even higher than normal
+
+    -   If the shape of a coastline is confined and funneled into an area of shallow offshore water, then the situation worsens. 
+
+-   The 2013 North Sea storm surge was particularly hazardous because :
+
+    -   There were winds of over 140 mph
+
+    -   Gale force northerly winds drove the storm waves resulting in a storm surge of 5.8m
+
+    -   Surge corresponded with high tide in many locations, making flooding even worse
+
+        -   It resulted in: significant coastal flooding in Hull, 100000 home lost power in Scotland, 1400 properties were flooded
+
+-   Storm surges in Bangladesh
+
+    -   Tropical cyclones have lower air pressure and stronger winds resulting in larger storm surge heights
+
+    -   Bangladesh is particularly vulnerable as:
+
+        -   Much of the country is low lying 1-3m
+
+        -   Incoming storm surges meet outflowing river discharge from the Ganges, meaning river flooding and coastal flooding combine
+
+        -   Intense rainfall from tropical cyclones contribute to flooding
+
+        -   Deforestation of coastal mangrove forests have removed vegetation that used to stabilise coastal swamps and dissipate wave energy
+
+        -   Triangular shape of the Bay of Bengal concentrates a cyclone storm surge as it moves north, increasing its height with it makes landfall
+
+### Climate Change and coastal flooding
+
+-   Sea levels are rising due to global warming.
+
+-   It is predicted that depression and cyclones will have more energy and be stronger, with faster wind and lower air pressure (though the evidence is weak)
+
+-   It is important to state that depression, cyclones and storm surges have always happened and would continue to happen without global warming and rising sea levels.
+
+-   Data on average wind speeds and wave heights is too poor to make accurate future forecast, compared to data on sea level.
+
+-   Coasts are very complex systems which are affected by many factors. Blaming coastal flooding on just global warming misunderstands the interplay of factors that affect the level of risk on coasts
+
 ## How can coastlines be managed to meet the needs of all players?
+
+### Economic and Social losses of coastal recession
+
+-   Economic costs include loss of property (homes, business farmland).
+
+    -   The lose of new roads as a result of coastal erosion may be high if they have to be built on a new route - 100m length of new load is about £150,000-£250,000
+
+    -   Destruction of a railway section of the South Devon Main line railway due to erosion cost £35 million to repair and cost to businesses were put at £60 million
+
+-   In the UK, the government does not provide compensation to people who lose their homes to coastal erosion. This is because it's not a risk, but a certainty
+
+    -   However, the DEFRA provided East Riding COuncil with £1.2 million as one of 15 UK Coastal Change pathfinders projects.They money was spent assisting 43 homeowners with relocation and demolition expenses
+
+-   Social costs include losing friends and family, having to relocate, lose of jobs, losses of amenity areas linked to tourism and recreation or of aesthetic values
+
+### Impacts of coastal flooding at a developed and developing country
+
++--------------------+---------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+|                    | **UK 2013 Storm**                                                               | **Bangladesh Floods**                                                                |
++--------------------+---------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+| **Cause**          | -   Very deep depression named **Cyclone Xavier** moved down from the North Sea | -   Funnel shape exacerbates effect                                                  |
+|                    |                                                                                 |                                                                                      |
+|                    |                                                                                 | -   Most of country low lying at 1-3m                                                |
+|                    |                                                                                 |                                                                                      |
+|                    |                                                                                 | -   Intense rainfall associated with tropical cyclones exacerbate                    |
+|                    |                                                                                 |                                                                                      |
+|                    |                                                                                 | -   **Cyclone Sidr**                                                                 |
+|                    |                                                                                 |                                                                                      |
+|                    |                                                                                 | -   Storm surfers meet overflowing rivers meaning river and coastal flooding combine |
++--------------------+---------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+| **Facts**          | -   225 kmh;140mph in Scotland                                                  | -   5m surge height                                                                  |
+|                    |                                                                                 |                                                                                      |
+|                    | -   Storm surge of 5.8m                                                         | -   260 km/h winds                                                                   |
+|                    |                                                                                 |                                                                                      |
+|                    |                                                                                 | -                                                                                    |
++--------------------+---------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+| **Economic Costs** | -   £1 billion in damages                                                       | -   \$1.7 billion in economic losses                                                 |
+|                    |                                                                                 |                                                                                      |
+|                    | -   2500 properties (homes and businesses) were flooded                         |                                                                                      |
++--------------------+---------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+| **Social Costs**   | -   15 deaths                                                                   | -   15000 deaths                                                                     |
+|                    |                                                                                 |                                                                                      |
+|                    | -   Vast areas were flooded forcing millions from their homes and farms         |                                                                                      |
++--------------------+---------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+
+### Climate change and environmental refugees
+
+-   Most at risk are islands such as Maldives, Tuvalu and Kiribati which have particular risk factors:
+
+    -   80% of people in the Seychelles live and work at the coast
+
+    -   MAny are fringed by coral reefs (which act as a natural coastal defence against erosion) but rising ocean temperatures due to global warming risk reef destruction 
+
+    -   They have small narrow economies based almost entirely on tourism or primary industry such as fishing, which can be easily disrupted
+
+-   In New Zealand, 75 citizens of Kiribati, 75 citizens of Tuvalu and 250 citizens of Tonga have been granted residency status in the country each year
+
+-   It is projected that if climate change results in sea levels rising by 50cm, then 11% of Bangladesh's coastal land maybe flooded resulting in 7-10 million environmental refugees
+
+### Hard Engineering Projects
+
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| **Name**                 | **How it works**                                                                                                              | **Advantage**                                                                                                                                    | **Disadvantage**                                                                                       |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| **Groynes**              | Wooden walls on a beach at right angles to the coast to slow down longshore drift                                             | -   Increases the recreational amenity value, assisting tourism                                                                                  | -   Expensive (£1000pm)                                                                                |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          |  They made the beach wider and higher so the waves expend their energy on it rather than on the backshore                     |                                                                                                                                                  | -    May be an obstacle to some people                                                                 |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          |                                                                                                                               |                                                                                                                                                  | -    Considered ugly and are not natural                                                               |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          |                                                                                                                               |                                                                                                                                                  | -    May increase erosion downdrift                                                                    |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| **Sea Wall**             | -   Curved structures parallel to the backshore                                                                               | -   Made of long lasting concrete                                                                                                                | -   Very expensive (£5000pm)                                                                           |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          | -   Curvature aims to reduce the wave energy                                                                                  | -   Prevent high water levels from moving inland                                                                                                 | -   May be considered ugly, decreasing amenity value                                                   |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          |                                                                                                                               |                                                                                                                                                  | -   Reduce the supply of sediment which may affect coastal areas nearby                                |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| **Rip Rap**              | -   Boulders (usually granite) resistant to erosion and with a large surface area to break up waves, dissipating their energy | -   Long lasting and flexible                                                                                                                    | -   Cost about £50 per m3                                                                              |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          |                                                                                                                               | -                                                                                                                                                | -   Can create access difficulties as they are dangerous to climb over                                 |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          |                                                                                                                               |                                                                                                                                                  | -   Some weathering and erosion may still occur at the backshore as seawater may still move through it |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| **Revetments**           | -   Sloped walls, often made of wood, placed parallel to the backshore                                                        | -   Longshore drift process can still continue                                                                                                   | -   Still expensive at £1500pm                                                                         |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          | -   Take the force of breaking water, weakening their erosive strength and protecting the backshore                           | -   Cheaper alternative to sea walls                                                                                                             | -   Look unsightly                                                                                     |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          |                                                                                                                               |                                                                                                                                                  | -   May need constant maintenance if the wood is abraded by powerful waves                             |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| **Offshore breakwaters** | -   Rock boulders usually granite dropped and aligned in short lengths in shallow nearshore waters parallel to the shore      | -   Being offshore, they allow longshore drift to still occur                                                                                    | -   Expensive - £2000pm                                                                                |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          | -   They absorb wave energy and dissipate the waves before they can erode the foreshore or backshore                          | -   Keeps the amenity value as they create sheltered water for water sports as well as keeping a beach in place for recreational and tourist use | -   May look unsightly at low tide                                                                     |
+|                          |                                                                                                                               |                                                                                                                                                  |                                                                                                        |
+|                          |                                                                                                                               |                                                                                                                                                  | -   Create increased deposition in the landward side                                                   |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+
+### Soft Engineering Projects
+
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+-------------------------------------------------------------------------------------+
+| **Name**                         | **How it works**                                                                                                                                        | **Advantage**                                        | **Disadvantage**                                                                    |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+-------------------------------------------------------------------------------------+
+| **Beach nourishment**            | -   Replaces the lost sediment that may have been eroded or transported by longshore drift                                                              | -   Looks natural and more sightly                   | -   Costs about £10 per m3 or £2 million per km                                     |
+|                                  |                                                                                                                                                         |                                                      |                                                                                     |
+|                                  | -   A large beach will absorb wave energy and protect the backshore from erosion                                                                        | -   Produces an amenity for recreation               | -   Does not last long, especially during winter so needs to be repeated frequently |
+|                                  |                                                                                                                                                         |                                                      |                                                                                     |
+|                                  |                                                                                                                                                         |                                                      | -   Disrupts the natural sediment cell                                              |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+-------------------------------------------------------------------------------------+
+| **Cliff regrading and drainage** | -   The cliff is artificially cut to a stable angle                                                                                                     | -   Creates a natural looking slope                  | -   Costs about £1 million                                                          |
+|                                  |                                                                                                                                                         |                                                      |                                                                                     |
+|                                  | -   To reduce mass movement, cliffs are drained with gravels so that the cliffs can drain water out quickly                                             | -   Looks natural once completed as its not visible  | -   Some land and property may be lost as the slope angle is changed                |
+|                                  |                                                                                                                                                         |                                                      |                                                                                     |
+|                                  |                                                                                                                                                         | -   Reduces mass movement                            | -   Difficult to implement along the whole of cliff without disturbance             |
+|                                  |                                                                                                                                                         |                                                      |                                                                                     |
+|                                  |                                                                                                                                                         |                                                      | -                                                                                   |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+-------------------------------------------------------------------------------------+
+| **Dune stabilisation**           | -   Monitor the condition of dunes and repair them with a geofabric or replanting of grasses (e.g. marram grass) together with the infilling of slacks. | -   Looks natural                                    | -   May not be able to withstand the effects of a very powerful storm               |
+|                                  |                                                                                                                                                         |                                                      |                                                                                     |
+|                                  |                                                                                                                                                         | -   Effective barrier to higher sea levels and tides | -   £10pm                                                                           |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+-------------------------------------------------------------------------------------+
+
+### Sustainable coastal management
+
+Many coastal communities in the 21st century face:
+
+Rising global sea levels but uncertainty about the scale and timing of the rise
+
+Increased frequency of storms and the possibility of increased erosion and flooding
+
+-   Sustainable coastal management refers to managing the wider coastal zone in terms of people and their economic livelihoods, social and cultural wellbeing and safety from coastal hazards, as well as minimising environmental impacts
+
+    -   Manage natural resources (e.g. fish) to ensure long term productivity
+
+    -   Manage flood and erosion risk, relocating to safe areas
+
+    -   Educating communities to understand why change is needed and how to adapt
+
+-   In the Maldives, there has been a potential for conflict to occur as coastal management has focused on some areas (such as Male the capital, whilst ignoring isolated islands) as well as traditional income sources (e.g. fishing) and resources (e.g. mangroves) are being overlooked in favour of tourism development
+
+    -   The Japanese Government has funded mangrove nurseries on the Maldives so that damaged mangrove areas can be replanted
+
+### Integrated Coastal Zone Management
+
+-   The entire coastal zone is managed, not just the narrow zone where breaking waves cause erosion or flooding, including all ecosystems and human activity in the zone.
+
+-   ICZM aims to bring together economic decision maker s(e..g tourism, fishing and ports) nad different government levels, emphasising the cooperation between all stakeholders so that everyone benefits
+
+-   Aims to conserve the coastal ecosystem ensuring that future generations can use the coast
+
+-   Aim to work with natural processes not against them
+
+### Shoreline management plans
+
+-   In 1993, the Ministry of Agriculture, Fisheries and Food set out a national strategy for flood and coastal defence in England and Wales based on the 11 natural sediment (literal) cells and subcells.
+
+-   Coastlines are measure on these principles: 
+
+    -   Environmentally acceptable protection measures
+
+    -   Economically viable coastal defences (considering land use, property values)
+
+    -   Long term sustainability of natural coastal processes and ecosystems
+
+    -   Maintenance of repair costs
+
+-   There are four main policies
+
+    -   Hold the line (maintaining existing defences and building new defences)
+
+    -   Advance the line (intervention through the buildings of new defenses seaward side)
+
+    -   Managed realignment (monitoring and managing natural processes in certain places where necessary)
+
+    -   No active management (doing nothing with no investment or maintenance of existing defences)
+
+-   Property values can change depending on the the proposed action that comes through a Cost Benefit Analysis which compares the cost of coastal defenses against the value of the land to be protected.
+
+-   Environmental Impact  Assessment is a key part of the decision making process.
+
+-   It identifies the positives and negatives of a development or scheme before it is implemented and feedback can be used to make improvements and modifications
+
+::: {.callout-note collapse="false"}
+## Case study: Happisburgh, North Norfolk
+
+-   Happisburgh failed to qualify for the governments grants for coastal defences. 
+
+-   Managed retreat was operated, much to the disappointment of locals, especially the residents of Beach Road who one by one, have lost their homes to the sea.
+
+-   By 2105, the shoreline may recede by 200m, with property losses totally £6 million
+
+-   House values are very low and people cannot afford to move elsewhere, having invested in buying a house that at the time was some distance away from the eroding cliff.
+
+-   CCAG raised awareness of the coastal erosion issue both locally and nationally.
+
+-   The campaign culminated in the launch of the Pathfinder pilot project in 2009.
+
+    -   The pathfinder project meant a government allocation of £3 million for 6 settlements, including Happisburgh
+
+    -   £1.4 million was set aside for purchase and leaseback of 11 houses on Beach Road. Owners were given half the value of their home, giving people a chance to relocate
+:::
+
+::: {.callout-note collapse="false"}
+## Case study: Chittagong, Bangladesh
+
+-   Coastal Climate Resilient Infrastructure Project (2012) supported by the Asian Development Bank aimed to climate proof the area
+
+    -   Road connects were improved (for farmers and markets) 
+
+    -   Raised embankments to 60 cm above normal flood levels, making them more resistant to coastal erosion
+
+    -   Creating new market areas with sheds raised on platforms above thee expected 2050 sea level
+
+    -   Constructive 25 cyclone shelters that could withstand strong earthquakes and 260 km/hr winds
+
+    -   Training in climate resilience and adaptation measures
+
+-   The positive on the project included elevating poverty (up to 10%) by generating income opportunities, adapting to climate change
+
+-   Negatives included removal of natural vegetation and relocation of 200 people.
+:::
